@@ -1,4 +1,4 @@
-<h1 align="center">> Hey There!, I am Fatma Omar</h1>
+<h1 align="center">> Hi There!, I am Fatma Omar</h1>
 
 ###
 
