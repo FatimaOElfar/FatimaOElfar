@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a frontend developer from Giza ,Egypt  <br><br>-✌️Enjoy to do programming and sharing knowledge <br>-❤️ Love to writing code and learning new features<br>- 📧 Reach me anytime:fatma.2002nagy@gmail.com</p>
+<p align="left">I'm a passionate frontend developer from Egypt, dedicated to web development and crafting exceptional user experiences. Currently pursuing studies in the Faculty of Computers and Artificial Intelligence at Cairo University. My journey in web development is driven by a strong interest in creating intuitive and impactful user interfaces. I thrive on tackling challenges and am committed to delivering top-notch software solutions.  <br><br>-✌️Enjoy to do programming and sharing knowledge <br>-❤️ Love to writing code and learning new features<br>- 📧 Reach me anytime:fatma.2002nagy@gmail.com</p>
 
 ###
 
